@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My MachineTest1</string>
+    <string name="empty" />
+    <string name="name">Name :</string>
+    <string name="place">Place :</string>
+    <string name="empty1" />
+    <string name="registration">Registration</string>
+    <string name="placea">Place</string>
+    <string name="placeaa">Place :</string>
+    <string name="w" />
+    <string name="password">Password :</string>
+    <string name="empty3" />
+    <string name="register">register</string>
+    <string name="google">google</string>
+    <string name="login">login</string>
+    <string name="passwor">Password :</string>
+    <string name="name1">Name :</string>
+    <string name="ww" />
+</resources>
